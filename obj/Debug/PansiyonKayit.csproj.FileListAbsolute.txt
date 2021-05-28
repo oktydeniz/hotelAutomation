@@ -1,0 +1,22 @@
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\bin\Debug\PansiyonKayit.exe.config
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\bin\Debug\PansiyonKayit.exe
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\bin\Debug\PansiyonKayit.pdb
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\obj\Debug\PansiyonKayit.csprojAssemblyReference.cache
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\obj\Debug\PansiyonKayit.Form1.resources
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\obj\Debug\PansiyonKayit.Properties.Resources.resources
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.GenerateResource.cache
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\obj\Debug\PansiyonKayit.exe
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\obj\Debug\PansiyonKayit.pdb
+C:\Users\oktay\Documents\Ybs\C#\PansiyonKayit\obj\Debug\PansiyonKayit.Form2.resources
+E:\C# Programlama\PansiyonKayit\bin\Debug\PansiyonKayit.exe.config
+E:\C# Programlama\PansiyonKayit\bin\Debug\PansiyonKayit.exe
+E:\C# Programlama\PansiyonKayit\bin\Debug\PansiyonKayit.pdb
+E:\C# Programlama\PansiyonKayit\obj\Debug\PansiyonKayit.csprojAssemblyReference.cache
+E:\C# Programlama\PansiyonKayit\obj\Debug\PansiyonKayit.Form1.resources
+E:\C# Programlama\PansiyonKayit\obj\Debug\PansiyonKayit.Form2.resources
+E:\C# Programlama\PansiyonKayit\obj\Debug\PansiyonKayit.Properties.Resources.resources
+E:\C# Programlama\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.GenerateResource.cache
+E:\C# Programlama\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.CoreCompileInputs.cache
+E:\C# Programlama\PansiyonKayit\obj\Debug\PansiyonKayit.exe
+E:\C# Programlama\PansiyonKayit\obj\Debug\PansiyonKayit.pdb
